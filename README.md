@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumodjha
 - 👀 I’m interested in data science and automating business process
-- 🌱 I’m currently learning Alteryx
+- 🌱 I’m currently learning Alteryx and Data science tools available in Azure
 - 💞️ I’m looking to collaborate on any data science or business intelligence project
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/kumodjha/) 
 - 📨 Write me (mail to:kumod.jha@live.com)
